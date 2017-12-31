@@ -1,3 +1,4 @@
 # qrcode-key-js
-test
-Generates a qr code which stands for a 6 digit key based on HOTP/TOTP protocol.
+
+### Description
+This code generates a qr code translated from a 6 digit key based on HOTP/TOTP protocol. 
